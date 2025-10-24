@@ -80,4 +80,4 @@ This dashboard transforms raw Amazon sales data into a powerful asset for busine
 ### Screenshoot:
 Show what the dashboard looks like. -
 
-![Dashboard Preview] (https://github.com/verma-png123/Amazon-Dashboard/blob/main/Snapshot%20of%20amazon%20dashboard.png)
+![Dashboard Preview](https://github.com/verma-png123/Amazon-Dashboard/blob/main/Snapshot%20of%20amazon%20dashboard.png)
