@@ -77,3 +77,6 @@ The main goal of this dashboard is to centralize and visualize critical sales an
 
 This dashboard transforms raw Amazon sales data into a powerful asset for business growth and efficiency, supporting ongoing improvement and innovation in a rapidly changing market environment.
 
+### Screenshoot:
+
+https://github.com/verma-png123/Amazon-Dashboard/blob/main/Snapshot%20of%20amazon%20dashboard.png
